@@ -13,7 +13,6 @@ git init
 ```
 3. Activate the virtual environment
 ```
-cd platform-io_base-config
 .\venv\Scripts\Activate
 ```
 4. Run a few commands to start pre-commit working
