@@ -1,13 +1,13 @@
-repos: 
+repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v3.3.0
     hooks:
-      - id: trailing whitespace
+      - id: trailing-whitespace
       - id: check-json
       - id: end-of-file-fixer
       - id: name-tests-test
 
   - repo: https://github.com/pre-commit/mirrors-clang-format
-    rev: ''  # Use the sha / tag you want to point at
+    rev: v17.0.3  # Use the sha / tag you want to point at
     hooks:
       - id: clang-format
