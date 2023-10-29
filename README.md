@@ -22,7 +22,7 @@ pip install pre-commit
 pre-commit install
 ```
 5. Change the configurations and secrets (described below)
-6. This is probably a good time to do your first commit ~just sayin'~
+6. This is probably a good time to do your first commit *just sayin'*
 7. Happy coding! - continue your project from there.
 
 ## Configuration
