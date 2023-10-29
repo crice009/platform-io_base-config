@@ -6,6 +6,7 @@
  */
 
 #include <Arduino.h>
+#include <secrets.h>
 
 
 #ifndef LED_BUILTIN

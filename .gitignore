@@ -5,3 +5,7 @@
 .vscode/ipch
 
 venv/
+
+# don't forget to copy/paste secrets-example.h
+# into your own secrets.h file ;)
+src/secrets.h 
